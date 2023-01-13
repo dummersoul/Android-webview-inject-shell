@@ -1,3 +1,5 @@
+详情文章: https://xz.aliyun.com/t/11505
+
 # Android-webview-inject-shell
 webview javascript addJavascriptInterface RCE test
 
